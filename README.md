@@ -4,7 +4,7 @@ This project is a simple phone app that I made to enhance my understand of React
 
 It features an interactive list of technologies in the development stack, that displays a short summary when tapped on.
 
-![Alt text](/screenshots/screenshot1.png?raw=true "Tech Stack App")
+<img src="./screenshots/screenshot1.png" width="240">
 
 ###Usage###
 
