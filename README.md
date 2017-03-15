@@ -6,7 +6,7 @@ It features an interactive list of technologies in the development stack, that d
 
 <img src="./screenshots/screenshot1.png" width="240">
 
-###Usage###
+### Usage ###
 
 Requirements:
 
